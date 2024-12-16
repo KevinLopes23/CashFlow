@@ -12,10 +12,19 @@
           "CashFlow.Communication": "1.0.0",
           "CashFlow.Exception": "1.0.0",
           "CashFlow.Infrastucture": "1.0.0",
+          "FluentValidation": "11.11.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
           "CashFlowApi.dll": {}
+        }
+      },
+      "FluentValidation/11.11.0": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.11.0.0"
+          }
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {},
@@ -69,7 +78,8 @@
         "dependencies": {
           "CashFlow.Communication": "1.0.0",
           "CashFlow.Domain": "1.0.0",
-          "CashFlow.Exception": "1.0.0"
+          "CashFlow.Exception": "1.0.0",
+          "FluentValidation": "11.11.0"
         },
         "runtime": {
           "CashFlow.Application.dll": {
@@ -79,6 +89,9 @@
         }
       },
       "CashFlow.Communication/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.11.0"
+        },
         "runtime": {
           "CashFlow.Communication.dll": {
             "assemblyVersion": "1.0.0",
@@ -87,6 +100,9 @@
         }
       },
       "CashFlow.Domain/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.11.0"
+        },
         "runtime": {
           "CashFlow.Domain.dll": {
             "assemblyVersion": "1.0.0",
@@ -95,6 +111,9 @@
         }
       },
       "CashFlow.Exception/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.11.0"
+        },
         "runtime": {
           "CashFlow.Exception.dll": {
             "assemblyVersion": "1.0.0",
@@ -104,7 +123,8 @@
       },
       "CashFlow.Infrastucture/1.0.0": {
         "dependencies": {
-          "CashFlow.Domain": "1.0.0"
+          "CashFlow.Domain": "1.0.0",
+          "FluentValidation": "11.11.0"
         },
         "runtime": {
           "CashFlow.Infrastucture.dll": {
@@ -120,6 +140,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/11.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cyIVdQBwSipxWG8MA3Rqox7iNbUNUTK5bfJi9tIdm4CAfH71Oo5ABLP4/QyrUwuakqpUEPGtE43BDddvEehuYw==",
+      "path": "fluentvalidation/11.11.0",
+      "hashPath": "fluentvalidation.11.11.0.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",
