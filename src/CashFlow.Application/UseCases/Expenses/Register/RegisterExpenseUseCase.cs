@@ -1,5 +1,6 @@
 ﻿using CashFlow.Communication.Enums;
 using CashFlow.Communication.requests;
+using CashFlow.Exception.ExpectionsBase;
 using FluentValidation;
 
 namespace CashFlow.Application.UseCases.Expenses.Register;
@@ -19,11 +20,11 @@ public class RegisterExpenseUseCase
 
        var result =  validator.Validate(resquest);
 
-       if(result.IsValid)
+       if(result.IsValid == false)
         {
             var errorMessages = result.Errors.Select(f => f.ErrorMessage).ToList();
 
-            throw new ArgumentException(errorMessages.ToString());
+            throw new ErrorOnValidationExpection(errorMessages);
         }
 
     }
