@@ -11,3 +11,16 @@ C:\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
 C:\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 C:\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 C:\Projetos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.AssemblyReference.cache
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll

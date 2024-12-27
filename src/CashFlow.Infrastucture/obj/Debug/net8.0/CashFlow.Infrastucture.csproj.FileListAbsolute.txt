@@ -14,3 +14,19 @@ C:\Projetos\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.Infras
 C:\Projetos\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\refint\CashFlow.Infrastucture.dll
 C:\Projetos\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.Infrastucture.pdb
 C:\Projetos\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\ref\CashFlow.Infrastucture.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\bin\Debug\net8.0\CashFlow.Infrastucture.deps.json
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\bin\Debug\net8.0\CashFlow.Infrastucture.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\bin\Debug\net8.0\CashFlow.Infrastucture.pdb
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.Infrastucture.AssemblyInfo.cs
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.Infrastucture.sourcelink.json
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.7448A4E0.Up2Date
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.Infrastucture.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\refint\CashFlow.Infrastucture.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\CashFlow.Infrastucture.pdb
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Infrastucture\obj\Debug\net8.0\ref\CashFlow.Infrastucture.dll
