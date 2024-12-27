@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+xCkfb/aSeA=",
+  "dgSpecHash": "Au92LWMXLK0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\22\\src\\CashFlowApi\\CashFlowApi.csproj",
+  "projectFilePath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlowApi\\CashFlowApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin.morais\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\kevin.morais\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

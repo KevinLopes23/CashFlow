@@ -56,11 +56,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\22\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+      "projectUniqueName": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
       "projectName": "CashFlow.Exception",
-      "projectPath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\22\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+      "projectPath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
       "packagesPath": "C:\\Users\\kevin.morais\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\22\\src\\CashFlow.Exception\\obj\\",
+      "outputPath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Exception\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
