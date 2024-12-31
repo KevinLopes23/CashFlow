@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dEWOuH3UmnY=",
+  "dgSpecHash": "KklQdrT1meE=",
   "success": true,
   "projectFilePath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin.morais\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\kevin.morais\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\kevin.morais\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\kevin.morais\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\kevin.morais\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -98,3 +98,16 @@ C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Test
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.pdb
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.genruntimeconfig.cache
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\ref\Validators.Tests.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Validators.Tests
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CashFlow.Application.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CashFlow.Exception.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CashFlow.Application.pdb
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CashFlow.Exception.pdb
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
