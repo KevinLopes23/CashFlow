@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashFlow.Exception", "src\C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashFlow.Infrastucture", "src\CashFlow.Infrastucture\CashFlow.Infrastucture.csproj", "{EF315371-12AD-43DE-9D6D-E81FD7225F36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validators.Tests", "tests\Validators.Tests\Validators.Tests.csproj", "{757B5837-9BFF-4B63-9180-A2DB38110A76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validators.Tests", "tests\Validators.Tests\Validators.Tests.csproj", "{757B5837-9BFF-4B63-9180-A2DB38110A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTestUtilites", "tests\CommonTestUtilites\CommonTestUtilites.csproj", "{0B0FA1B2-006F-43B5-B93B-A618A64D60F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{757B5837-9BFF-4B63-9180-A2DB38110A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{757B5837-9BFF-4B63-9180-A2DB38110A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{757B5837-9BFF-4B63-9180-A2DB38110A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0FA1B2-006F-43B5-B93B-A618A64D60F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0FA1B2-006F-43B5-B93B-A618A64D60F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0FA1B2-006F-43B5-B93B-A618A64D60F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0FA1B2-006F-43B5-B93B-A618A64D60F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{480F1433-FEF6-4DE3-B37D-1C216CCA2BDD} = {FC2A071A-A6A4-4E36-9179-EA316977E3AA}
 		{EF315371-12AD-43DE-9D6D-E81FD7225F36} = {FC2A071A-A6A4-4E36-9179-EA316977E3AA}
 		{757B5837-9BFF-4B63-9180-A2DB38110A76} = {5AEB94A6-09B3-42FF-923A-4C39D452BFBA}
+		{0B0FA1B2-006F-43B5-B93B-A618A64D60F6} = {5AEB94A6-09B3-42FF-923A-4C39D452BFBA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {50A0BF58-9ADF-4BC6-8FC7-3A6C37E08FE2}
