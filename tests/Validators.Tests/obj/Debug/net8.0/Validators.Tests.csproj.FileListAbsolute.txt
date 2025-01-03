@@ -111,3 +111,6 @@ C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Test
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\Bogus.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CommonTestUtilites.dll
+C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CommonTestUtilites.pdb
