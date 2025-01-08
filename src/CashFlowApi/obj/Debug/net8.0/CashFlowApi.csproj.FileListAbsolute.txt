@@ -89,3 +89,10 @@ C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlowApi\obj\D
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlowApi\obj\Debug\net8.0\CashFlowApi.pdb
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlowApi\obj\Debug\net8.0\CashFlowApi.genruntimeconfig.cache
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlowApi\obj\Debug\net8.0\ref\CashFlowApi.dll
+C:\Projetos\CashFlow\src\CashFlowApi\bin\Debug\net8.0\CashFlowApi.staticwebassets.endpoints.json
+C:\Projetos\CashFlow\src\CashFlowApi\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+C:\Projetos\CashFlow\src\CashFlowApi\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Projetos\CashFlow\src\CashFlowApi\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+C:\Projetos\CashFlow\src\CashFlowApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Projetos\CashFlow\src\CashFlowApi\obj\Debug\net8.0\staticwebassets\msbuild.CashFlowApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Projetos\CashFlow\src\CashFlowApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

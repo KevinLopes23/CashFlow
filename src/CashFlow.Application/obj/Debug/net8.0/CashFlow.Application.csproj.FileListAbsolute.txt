@@ -41,3 +41,6 @@ C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Applicat
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\refint\CashFlow.Application.dll
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Application.pdb
 C:\Users\kevin.morais\Desktop\Curso RocketSeat\C#\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\ref\CashFlow.Application.dll
+C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
