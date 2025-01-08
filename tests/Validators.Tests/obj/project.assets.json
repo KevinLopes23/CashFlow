@@ -6073,6 +6073,7 @@
     "net8.0": [
       "CashFlow.Application >= 1.0.0",
       "CashFlow.Communication >= 1.0.0",
+      "CashFlow.Exception >= 1.0.0",
       "CommonTestUtilites >= 1.0.0",
       "FluentAssertions >= 8.0.0-alpha.1",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
@@ -6119,6 +6120,9 @@
             },
             "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
               "projectPath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+            },
+            "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+              "projectPath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
             },
             "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\tests\\CommonTestUtilites\\CommonTestUtilites.csproj": {
               "projectPath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\tests\\CommonTestUtilites\\CommonTestUtilites.csproj"
