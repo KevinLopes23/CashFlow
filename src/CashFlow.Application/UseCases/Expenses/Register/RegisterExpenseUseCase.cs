@@ -1,7 +1,6 @@
-﻿using CashFlow.Communication.Enums;
-using CashFlow.Communication.requests;
+﻿using CashFlow.Communication.requests;
+using CashFlow.Domain.Entities;
 using CashFlow.Exception.ExpectionsBase;
-using FluentValidation;
 
 namespace CashFlow.Application.UseCases.Expenses.Register;
 
@@ -10,6 +9,15 @@ public class RegisterExpenseUseCase
     public ResquestRegisterExpenseJson Execute(ResquestRegisterExpenseJson resquest)
     {
         Validate(resquest);
+
+        var entity = new Expense
+        {
+            Amount = resquest.Amount,
+            Date = resquest.Date,
+            Description = resquest.Description,
+            Title = resquest.Title,
+            PaymentType = (Domain.Enums.PaymentType)resquest.PaymentType
+        };
 
         return new ResquestRegisterExpenseJson();
     }
