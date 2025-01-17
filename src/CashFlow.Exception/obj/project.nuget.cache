@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NcQ0uO9ORXk=",
+  "dgSpecHash": "Y1ReBke8wLY=",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+  "projectFilePath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kevin\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+    "C:\\Users\\kevin.morais\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
   ],
   "logs": []
 }
