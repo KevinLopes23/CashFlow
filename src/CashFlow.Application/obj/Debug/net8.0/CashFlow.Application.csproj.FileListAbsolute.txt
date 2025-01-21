@@ -27,11 +27,9 @@ C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Applicat
 C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Communication.dll
 C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Domain.dll
 C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Exception.dll
-C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Infrastucture.dll
 C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Communication.pdb
 C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Domain.pdb
 C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Exception.pdb
-C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Infrastucture.pdb
 C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
 C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
 C:\Projetos\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll

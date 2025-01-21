@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\",
+  "WorkspaceRootPath": "C:\\Projetos\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26DF7B1C-B556-4049-B1F4-FFB50780816E}|src\\CashFlowApi\\CashFlowApi.csproj|c:\\users\\kevin.morais\\desktop\\curso rocketseat\\c#\\cashflow\\src\\cashflowapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26DF7B1C-B556-4049-B1F4-FFB50780816E}|src\\CashFlowApi\\CashFlowApi.csproj|solutionrelative:src\\cashflowapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF315371-12AD-43DE-9D6D-E81FD7225F36}|src\\CashFlow.Infrastucture\\CashFlow.Infrastucture.csproj|c:\\users\\kevin.morais\\desktop\\curso rocketseat\\c#\\cashflow\\src\\cashflow.infrastucture\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF315371-12AD-43DE-9D6D-E81FD7225F36}|src\\CashFlow.Infrastucture\\CashFlow.Infrastucture.csproj|solutionrelative:src\\cashflow.infrastucture\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF315371-12AD-43DE-9D6D-E81FD7225F36}|src\\CashFlow.Infrastucture\\CashFlow.Infrastucture.csproj|c:\\users\\kevin.morais\\desktop\\curso rocketseat\\c#\\cashflow\\src\\cashflow.infrastucture\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF315371-12AD-43DE-9D6D-E81FD7225F36}|src\\CashFlow.Infrastucture\\CashFlow.Infrastucture.csproj|c:\\projetos\\cashflow\\src\\cashflow.infrastucture\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF315371-12AD-43DE-9D6D-E81FD7225F36}|src\\CashFlow.Infrastucture\\CashFlow.Infrastucture.csproj|solutionrelative:src\\cashflow.infrastucture\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF7B1C-B556-4049-B1F4-FFB50780816E}|src\\CashFlowApi\\CashFlowApi.csproj|c:\\projetos\\cashflow\\src\\cashflowapi\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF7B1C-B556-4049-B1F4-FFB50780816E}|src\\CashFlowApi\\CashFlowApi.csproj|solutionrelative:src\\cashflowapi\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF7B1C-B556-4049-B1F4-FFB50780816E}|src\\CashFlowApi\\CashFlowApi.csproj|c:\\projetos\\cashflow\\src\\cashflowapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF7B1C-B556-4049-B1F4-FFB50780816E}|src\\CashFlowApi\\CashFlowApi.csproj|solutionrelative:src\\cashflowapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,44 +25,40 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CashFlow\\src\\CashFlowApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CashFlowApi\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CashFlow\\src\\CashFlowApi\\Program.cs",
+              "RelativeToolTip": "src\\CashFlowApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:14:01.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DependencyInjectionExtension.cs",
-              "DocumentMoniker": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Infrastucture\\DependencyInjectionExtension.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Infrastucture\\DependencyInjectionExtension.cs",
-              "ToolTip": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Infrastucture\\DependencyInjectionExtension.cs",
-              "RelativeToolTip": "src\\CashFlow.Infrastucture\\DependencyInjectionExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "C:\\Projetos\\CashFlow\\src\\CashFlowApi\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "src\\CashFlowApi\\Controllers\\ExpensesController.cs",
+              "ToolTip": "C:\\Projetos\\CashFlow\\src\\CashFlowApi\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "src\\CashFlowApi\\Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T14:58:57.981Z",
+              "WhenOpened": "2025-01-21T02:06:34.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlowApi\\Program.cs",
-              "RelativeDocumentMoniker": "src\\CashFlowApi\\Program.cs",
-              "ToolTip": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlowApi\\Program.cs",
-              "RelativeToolTip": "src\\CashFlowApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T14:34:14.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ExpensesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Infrastucture\\DataAccess\\Repositories\\ExpensesRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\CashFlow\\src\\CashFlow.Infrastucture\\DataAccess\\Repositories\\ExpensesRepository.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Infrastucture\\DataAccess\\Repositories\\ExpensesRepository.cs",
-              "ToolTip": "C:\\Users\\kevin.morais\\Desktop\\Curso RocketSeat\\C#\\CashFlow\\src\\CashFlow.Infrastucture\\DataAccess\\Repositories\\ExpensesRepository.cs",
+              "ToolTip": "C:\\Projetos\\CashFlow\\src\\CashFlow.Infrastucture\\DataAccess\\Repositories\\ExpensesRepository.cs",
               "RelativeToolTip": "src\\CashFlow.Infrastucture\\DataAccess\\Repositories\\ExpensesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T01:49:43.957Z",
               "EditorCaption": ""

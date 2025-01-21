@@ -8,7 +8,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "resquest",
+        "Name": "request",
         "Type": "CashFlow.Communication.requests.ResquestRegisterExpenseJson",
         "IsRequired": true
       }
